@@ -58,4 +58,4 @@ Delta m:  0.014331355662
 Delta c:  0.0216951670224
 ```
 
-![Plot with linearregression]()
+![Plot with linearregression](https://github.com/daniehj/usikkerhet/raw/master/plot.png)
