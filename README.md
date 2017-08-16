@@ -37,3 +37,25 @@ Call module, use two-vectors, add plot if plot figure with linear regression nee
 ```
 usikkerhet(x,y,plot)
 ```
+
+### Example and screenshot
+
+Uses two vectors and takes a lienaer regression
+
+```python
+x = [somevector]
+y = [somevector]
+
+usikkerhet(x,y,plot)
+```
+
+And we get the answer
+
+```
+>
+linear regression: -1.493143x + 8.811429
+Delta m:  0.014331355662
+Delta c:  0.0216951670224
+```
+
+![Plot with linearregression]()
