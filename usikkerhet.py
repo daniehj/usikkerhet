@@ -1,7 +1,7 @@
 from pylab import *
 
 
-def usikkerhet(x,y,plot=False):
+def usikkerhet(x,y,plot_viz=False):
     lin = []
     d = []
     
@@ -29,7 +29,7 @@ def usikkerhet(x,y,plot=False):
     print "Delta c: " , sqrt(deltac)
     
     
-    if plot:
+    if plot_viz:
         figure()
         plot(x,y,'ob',
              x,lin,'-r')
