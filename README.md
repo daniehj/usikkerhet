@@ -1,4 +1,4 @@
-# # usikkerhet
+# usikkerhet
 
 A script module for calculating uncertainties in python. Uses two vectors and calculates the uncertainties and prints them.
 Can also make a plot with a linear regression.
